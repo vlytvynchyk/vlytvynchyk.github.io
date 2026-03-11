@@ -1,9 +1,9 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
-Software engineer sharing experiences and insights from my journey in software development.
+Solutions engineer sharing experiences and insights from my journey in software development.
 
-Check out my projects on [GitHub](https://github.com/vlytvynchyk).
+Check out my [projects](/projects/) or find me on [GitHub](https://github.com/vlytvynchyk).
