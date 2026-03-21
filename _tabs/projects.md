@@ -18,6 +18,11 @@ order: 0
   </div>
 
   <div class="card-item">
+    <h3><a href="https://vlytvynchyk.github.io/agent-protocols-graph/" target="_blank">Agent Protocols Graph</a></h3>
+    <p>Interactive knowledge graph covering MCP, A2A, Skills, and other AI agent protocols. 23 topics, 19 courses with quizzes, spaced repetition, and a daily crawler that keeps content up to date.</p>
+  </div>
+
+  <div class="card-item">
     <h3><a href="https://github.com/vlytvynchyk/ultimate-perf-switch" target="_blank">UltimatePerfSwitch</a></h3>
     <p>System tray app that toggles the hidden Ultimate Performance power plan on Windows 11. Auto-switches based on CPU load and auto-restores the plan when Windows removes it.</p>
   </div>
