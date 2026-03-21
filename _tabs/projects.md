@@ -16,6 +16,11 @@ order: 0
     <h3><a href="https://vlytvynchyk.github.io/fudokan-timer-interval/" target="_blank">Fudokan Timer</a></h3>
     <p>Interval timer for karate training. Preset and custom profiles, color-coded phases, audio alerts, and vibration feedback. Supports English, Ukrainian, and Japanese.</p>
   </div>
+
+  <div class="card-item">
+    <h3><a href="https://github.com/vlytvynchyk/ultimate-perf-switch" target="_blank">UltimatePerfSwitch</a></h3>
+    <p>System tray app that toggles the hidden Ultimate Performance power plan on Windows 11. Auto-switches based on CPU load and auto-restores the plan when Windows removes it.</p>
+  </div>
 </div>
 
 ## Packages

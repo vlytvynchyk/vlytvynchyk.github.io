@@ -45,9 +45,7 @@ comments:
   provider:
 
 pwa:
-  enabled: true
-  cache:
-    enabled: true
+  enabled: false
 
 paginate: 10
 
