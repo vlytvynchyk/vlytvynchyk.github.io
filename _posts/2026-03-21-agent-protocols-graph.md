@@ -1,6 +1,6 @@
 ---
 title: "Agent Protocols Graph — an Interactive Map of AI Agent Technologies"
-date: 2026-03-22
+date: 2026-03-21
 categories: [Projects]
 tags: [javascript, ai, mcp, a2a]
 description: "I built a single-file interactive knowledge graph covering MCP, A2A, Skills, and other protocols behind modern AI agents — with courses, quizzes, spaced repetition, and a daily crawler that keeps it up to date."
