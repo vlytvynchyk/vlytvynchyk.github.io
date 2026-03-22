@@ -4,6 +4,15 @@ icon: fas fa-toolbox
 order: 0
 ---
 
+## Lab
+
+<div class="card-wrapper">
+  <div class="card-item">
+    <h3><a href="https://github.com/vlytvynchyk/rag-vs-long-context" target="_blank">RAG vs Long Context</a></h3>
+    <p>Benchmark comparing RAG, Long Context, and No Context approaches for LLM-based documentation Q&A. Tested on FastAPI docs (~117K tokens) with local models via Ollama.</p>
+  </div>
+</div>
+
 ## Tools
 
 <div class="card-wrapper">
