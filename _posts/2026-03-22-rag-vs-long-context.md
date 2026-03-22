@@ -1,8 +1,9 @@
 ---
-title: "RAG vs Long Context — What Actually Works for Documentation"
+title: "I Tested RAG and Long Context on Real Docs — Here's What the Numbers Say"
 date: 2026-03-22
 categories: [AI]
 tags: [rag, llm, long-context, documentation]
+permalink: /posts/rag-vs-long-context/
 description: "I tested RAG and Long Context approaches against real open-source documentation using local LLMs on consumer hardware. Here's what I found."
 ---
 
